@@ -83,15 +83,3 @@ Inside Client & Server install with npm
 
 **Server:** Cors, Bcrypt
 
-## Authors
-
-- Hinduraj Kadam - [@Hinduraj8199](https://github.com/Hinduraj8199)
-- Vedansh Wani [@vedascript](https://github.com/vedascript)
-- Gaurav Tambe [@tambegaurav](https://github.com/tambegaurav)
-
-## Acknowledgements
-
-- [Masai School](https://www.masaischool.com/)
-- [Albert Sebastian](https://github.com/albseb511)
-- [Dhaval Chheda](https://github.com/kiddodhaval)
-- [Prabhanjan](https://github.com/Sparkenstein)
